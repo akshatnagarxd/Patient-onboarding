@@ -2,10 +2,6 @@
 
 ## Result (Home Page) :
 
-
-## Note :
-This project is only spring project and please find related angular project here. You will find complete description of running project in Installation and Run Section
-
 ## Project Description
 Title of our application is patient on-boarding app
 
