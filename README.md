@@ -1,7 +1,5 @@
 # Patient Onboardering 
 
-## Result (Home Page) :
-
 ## Project Description
 Title of our application is patient on-boarding app
 
